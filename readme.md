@@ -99,6 +99,97 @@ Dado que você está começando do zero, gosta de lógica e quer eficiência:
 
 Você tem preferência por alguma dessas ou quer que eu escolha a que tem a curva de aprendizado mais amigável para seu tempo disponível?
 
+Olá! Recebi suas informações do entrevistador.
+Vejo que você escolheu Desenvolvedor de Software (foco em aplicações e jogos) e tem 5–6 horas por semana para estudar. Perfeito!
+Vou montar agora seu plano completo personalizado...
+
+🧩 VISÃO DO DIA A DIA
+Como é o trabalho de um(a) Desenvolvedor de Software:
+- Escrever e revisar código para aplicações e jogos
+- Testar funcionalidades e corrigir bugs
+- Colaborar com equipe de design e produto
+- Implementar novas features e melhorias
+- Documentar código e manter repositórios atualizados
+
+🧠 MAPA DE SKILLS
+CORE SKILLS (essenciais):
+- Lógica de programação e algoritmos
+- Estruturas de dados
+- Programação orientada a objetos (POO)
+NICE-TO-HAVE (complementares):
+- Noções de design de interfaces (UI/UX)
+- Conhecimento básico de bancos de dados
+FERRAMENTAS E TECNOLOGIAS:
+- Linguagem: JavaScript ou Python (para aplicações)
+- Frameworks: Unity (C#) para jogos ou React para aplicações web
+- Git/GitHub para versionamento de código
+
+📅 ROADMAP DE 180 DIAS
+ADAPTADO PARA: 5–6 horas/semana (roadmap padrão)
+MÊS 1 - FUNDAMENTOS
+SEMANA 1-2:
+- Aprender lógica de programação (variáveis, loops, condicionais)
+- Instalar e configurar ambiente de desenvolvimento (VS Code, GitHub)
+SEMANA 3-4:
+- Estudar estruturas de dados básicas (listas, arrays, dicionários)
+- Praticar pequenos exercícios de código (calculadora, jogo da forca)
+MÊS 2 - PRÁTICA
+SEMANA 5-6:
+- Introdução a POO (classes, objetos, herança)
+- Criar miniaplicações simples (to-do list, quiz interativo)
+SEMANA 7-8:
+- Aprender Git/GitHub (commit, branch, pull request)
+- Publicar primeiro projeto simples no GitHub
+MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+SEMANA 9-10:
+- Escolher foco: aplicações web (React) ou jogos (Unity)
+- Seguir tutoriais guiados para criar protótipo inicial
+SEMANA 11-12:
+- Finalizar projeto de portfólio
+- Preparar README detalhado e documentação
+
+🚀 PROJETO DE PORTFÓLIO
+PROJETO: Jogo ou Aplicação Interativa “Quiz de Filmes”
+O QUE FAZER:
+Criar um jogo/aplicação onde o usuário responde perguntas sobre filmes, com pontuação e feedback.
+ENTREGÁVEIS:
+- Código funcional publicado no GitHub
+- Interface simples e amigável
+- README com instruções de uso
+CRITÉRIOS DE ACEITAÇÃO:
+- Usuário consegue jogar sem erros
+- Pontuação é exibida corretamente
+- Projeto roda em qualquer navegador ou ambiente configurado
+DICA: Comece pequeno (5 perguntas), depois adicione funcionalidades extras como ranking ou níveis.
+
+💬 ROTEIRO DE ENTREVISTAS
+PERGUNTA 1: “Você já trabalhou em algum projeto prático?”
+COMO RESPONDER: Explique seu projeto de portfólio, o problema que resolveu e como publicou no GitHub.
+PERGUNTA 2: “Qual linguagem você domina melhor?”
+COMO RESPONDER: Cite a linguagem escolhida (ex. JavaScript ou Python), explique por que escolheu e dê exemplos de uso.
+PERGUNTA 3: “Como você lida com bugs?”
+COMO RESPONDER: Mostre que usa testes, console.log/debugging e pesquisa em documentação para resolver.
+PERGUNTA 4: “Você já trabalhou em equipe?”
+COMO RESPONDER: Mesmo sem experiência profissional, fale sobre uso de GitHub e colaboração em projetos abertos.
+PERGUNTA 5: “Por que quer trabalhar com software/jogos?”
+COMO RESPONDER: Relacione seu interesse pessoal (gostar de jogos/aplicações) com sua motivação para aprender e evoluir.
+
+🎓 TRILHA DIO RECOMENDADA
+TRILHA: Bootcamp “Coding The Future - Games Developer” ou Formação “JavaScript Developer”
+POR QUE ESSA TRILHA:
+- Conecta diretamente com desenvolvimento de aplicações e jogos
+- Inclui prática guiada, projetos e desafios para portfólio
+- Ajuda na transição de carreira com foco em código
+PRÓXIMOS PASSOS:
+- Acesse dio.me
+- Busque por “Games Developer” ou “JavaScript Developer”
+- Inscreva-se gratuitamente
+- Siga o cronograma junto com este roadmap
+
+✨ Seu plano está pronto!
+Lembre-se: o mais importante é a constância, não a velocidade. Comece pela Semana 1 e vá no seu ritmo.
+
+
 <!--START_SECTION:footer-->
 
 <br />
