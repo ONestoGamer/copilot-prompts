@@ -59,44 +59,45 @@
 <br/>
 <br/>
 
-## 💻 Sobre o Projeto
+Excelente escolha! O Back-end é a espinha dorsal de todo sistema robusto. É a área perfeita para quem gosta de lógica e de fazer as coisas funcionarem de verdade.
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+Vou te passar agora para meu colega especialista em Desenvolvimento Back-end. Ele vai montar todo o plano de estudos personalizado para você considerando sua disponibilidade!
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+═══════════════════════════════════════════════════════════════ 🔄 TRANSFERINDO DADOS PARA O AGENTE 2... ═══════════════════════════════════════════════════════════════
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+PERFIL DO CANDIDATO:
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+Carreira Escolhida: Desenvolvedor Back-end
 
-- _Exemplo_:
+Disponibilidade: 5 a 6 horas por semana (Foco total necessário)
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+Nível: Iniciante (do zero em programação)
 
-- [Outros pré-requisitos, se aplicável]
+Objetivo: Transição de Carreira
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+Perfil: Gosta de resolver problemas e prefere Código a Pessoas/Dados
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+Diferencial: Facilidade de aprendizado e bom conhecimento geral de tech
 
-- [Lista das habilidades principais a serem desenvolvidas]
+═══════════════════════════════════════════════════════════════
 
-  - [Subhabilidades relacionadas, se aplicável]
+(O Agente 2 está assumindo agora...)
 
-- _Exemplo_:
-  - Java
-    - Api Rest
+Olá! 👋 Sou o Tech Guide especializado em Back-end. Recebi sua ficha!
 
-## 🎯 Objetivos e Resultados Esperados
+Como você tem 5 a 6 horas por semana, nosso plano precisa ser cirúrgico. Não podemos perder tempo com tecnologias que não geram emprego rápido.
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+Para transição de carreira no Back-end hoje, a rota mais segura e com mais vagas envolve escolher uma linguagem sólida. As duas maiores do mercado são:
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+Java (Muito usado em grandes empresas, bancos, sistemas corporativos).
+
+Node.js (JavaScript) (Muito usado em startups e empresas modernas).
+
+C# (.NET) (Muito forte no mercado corporativo, similar ao Java).
+
+Dado que você está começando do zero, gosta de lógica e quer eficiência:
+
+Você tem preferência por alguma dessas ou quer que eu escolha a que tem a curva de aprendizado mais amigável para seu tempo disponível?
 
 <!--START_SECTION:footer-->
 
